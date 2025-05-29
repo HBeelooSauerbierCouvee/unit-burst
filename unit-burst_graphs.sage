@@ -140,7 +140,7 @@ def k_independence_number(graph, k):
 
 ###### main commands to compute unit-burst graphs and their properties ######
 
-from Unit_Burst_sphere_sizes import *
+from unit_burst_sphere_sizes import *
 import time
 
 #set parameters: q >= 2 modulus for cyclic ring Z/qZ; n >= 2, dimension for (Z/qZ)^n; d >= 1 for computing maximum d-code
